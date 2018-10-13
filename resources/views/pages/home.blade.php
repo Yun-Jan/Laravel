@@ -2,7 +2,7 @@
 @section('content')
 
 
-    <h1>Hello World Welcome to my Homepage </h1>
-    <p>Hello World Welcome to my Homepage</p>
+    <h1>Welcome to my Homepage </h1>
+    <p>Welcome to my Homepage</p>
 
 @stop
